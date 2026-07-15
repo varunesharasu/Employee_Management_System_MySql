@@ -16,6 +16,3 @@ Or, if `npm` works normally:
 ```bat
 npm install
 ```
-
-### 3) Run
-```bat
