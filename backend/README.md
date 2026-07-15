@@ -10,5 +10,3 @@ If your `npm` command is broken on Windows, you can run npm via node directly:
 ```bat
 "C:\Program Files\nodejs\node.exe" "C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js" install
 ```
-
-Or, if `npm` works normally:
