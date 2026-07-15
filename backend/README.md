@@ -19,9 +19,3 @@ npm install
 
 ### 3) Run
 ```bat
-npm start
-```
-
-### 4) Test
-Open:
-- http://localhost:3001/health
