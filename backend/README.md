@@ -12,7 +12,3 @@ If your `npm` command is broken on Windows, you can run npm via node directly:
 ```
 
 Or, if `npm` works normally:
-
-```bat
-npm install
-```
