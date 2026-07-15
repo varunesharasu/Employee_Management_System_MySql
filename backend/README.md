@@ -25,5 +25,3 @@ npm start
 ### 4) Test
 Open:
 - http://localhost:3001/health
-
-You should see `{ ok: true, mysql: "connected" }` when the DB settings are correct.
